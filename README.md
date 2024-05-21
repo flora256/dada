@@ -11,6 +11,3 @@ meu nome é Daiana
 00001108118677sp@al.educacao.sp.gov.br
 
 daianaflora794@gmail.com
-
-![]()
-https://tse4.mm.bing.net/th/id/OIP.H6F3LtCiXjPufjE_qZb71AAAAA?rs=1&pid=ImgDetMain
