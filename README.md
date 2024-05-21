@@ -2,7 +2,7 @@
 
 meu nome é Daiana
 
--Estou estudando na [Alura](https://www.alura.com.br)
+-Estou estudando na alura
 -Estou me desenvolvendo na linguagem JavaScrit
 -ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
